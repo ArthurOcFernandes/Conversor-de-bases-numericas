@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"br.com.conversordebases.calculadora","l":"Binario"},{"p":"br.com.conversordebases.calculadora","l":"CalculadoraConversora"},{"p":"br.com.conversordebases.main","l":"Conversor"},{"p":"br.com.conversordebases.calculadora","l":"Hexadecimal"}];updateSearchResults();
