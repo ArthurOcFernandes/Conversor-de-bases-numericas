@@ -1,0 +1,1 @@
+<h1><img src="https://img.ibxk.com.br/2020/11/24/24215602887413.jpg?w=1120&h=420&mode=crop&scale=both" style="margin: 0 auto"></h1>
