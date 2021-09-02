@@ -14,7 +14,7 @@ Esse sistema foi desenvolvido usando Java puro:
 
 ##
 Inicialmente, o sistema roda em terminal e recebe um número decimal inteiro positivo, uma entrada do tipo para conversão e a partir disso calcula e mostra para o usuário o numero convertido.
-Ex. de funcionamento:
+##### Ex. de funcionamento:
 ###### <p style="margin-bottom: 1rem">Ao rodar o programa: </p> 
 ![image](https://user-images.githubusercontent.com/78167347/131915556-69b2a48e-7a7d-48c8-bd1b-9c403932144c.png)
 ###### <p style="margin-bottom: 1rem">Ao entrar o numero 65: </p>
