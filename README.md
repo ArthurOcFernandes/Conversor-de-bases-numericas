@@ -23,8 +23,6 @@ Inicialmente, o sistema roda em terminal e recebe um número decimal inteiro pos
 ![image](https://user-images.githubusercontent.com/78167347/131915691-71b574fd-d141-4496-80ab-b398580f1ff0.png)
 ###### <p style="margin-bottom: 1rem">Escolhendo a base hexadecimal: </p>
 ![image](https://user-images.githubusercontent.com/78167347/131915937-f3b0a1b4-bd80-45c6-b8a4-c9ae72f4d029.png)
-##### <p style="margin-bottom:1rem">Escolhendo a base Octal: </p>
-![image](https://user-images.githubusercontent.com/78167347/131937292-b8c544d7-3f00-44cf-9f19-d688615392a3.png)
 ##
 Um projeto simples que surgiu em uma simples aula, mas me orgulhou muito de tê-lo escrito.
 ##
@@ -35,4 +33,3 @@ Serão incluídos no projeto futuramente:
 * Conversão negativa;
 * Interface gráfica;
 
->
