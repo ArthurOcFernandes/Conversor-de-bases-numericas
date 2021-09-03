@@ -39,7 +39,8 @@ public interface CalculadoraConversora {
      */
     static int RecebeTipoConversao(Scanner entrada){
         int tipo;
-        System.out.printf("Converter para [1] %s ; [2] %s", new Binario().getTipo(), new Hexadecimal().getTipo());
+        System.out.printf("Converter para [1] %s ; [2] %s; [3] %s: ", new Binario().getTipo(),
+                new Hexadecimal().getTipo(), new Octal().getTipo());
         tipo = entrada.nextInt();
         return tipo;
     }
@@ -51,7 +52,7 @@ public interface CalculadoraConversora {
         if (a < 0) {
             throw new IllegalArgumentException("Numero precisa ser inteiro positivo");
         }
-    }
+    }   
     /**
      * @return a calculadora que fara as ações
      * @param tipoParaConversao
@@ -62,6 +63,7 @@ public interface CalculadoraConversora {
         switch (tipoParaConversao) {
             case 1 -> tipo = new Binario();
             case 2 -> tipo = new Hexadecimal();
+            case 3 -> tipo = new Octal();
             default -> throw new IllegalArgumentException("Tipo inexistente");
         }
         return tipo;
