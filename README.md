@@ -30,7 +30,6 @@ Um projeto simples que surgiu em uma simples aula, mas me orgulhou muito de tê-
 ##
 Serão incluídos no projeto futuramente:
 
-* A base octal;
 * Conversão não-inteira;
 * Conversão negativa;
 * Interface gráfica;
