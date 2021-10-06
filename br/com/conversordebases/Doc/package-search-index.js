@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.conversordebases.calculadora"},{"l":"br.com.conversordebases.main"}];updateSearchResults();
